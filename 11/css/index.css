@@ -5,11 +5,29 @@
 }
 
 #div2{
+	background: url(../img/唯品会VIP特卖会：品牌特卖- 唯品会_files/1531301431219.png);
+	background-size: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+}  
+#div2 >img{
+    width: 20%;
+} 
+ 
+ 
+#div4 >img{
+    width:100%;
+     margin: 0px;
+}
+
+#div5{
+	
     display:flex;
     flex-wrap: wrap;
     align-items: center;
 }
-#div2 >img{
-    width: 20%;
+#div5 >img{ 
+    width: 20%;  
 }
 
